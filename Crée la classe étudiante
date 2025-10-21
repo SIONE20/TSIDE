@@ -1,0 +1,9 @@
+ etudiants=data.frame(
++ id=1:6,
++ prenom=c("Alice","Bob","Charlie","Diana","Eve","Frank"),
++ age=c(20,22,21,23,20,24),
++ note_math=c(15,12,18,14,16,11),
++ note_histoire=c(13,16,14,15,12,17),
++ admis=c(TRUE,TRUE,TRUE,TRUE,TRUE,FALSE),
++ stringAsFactors=FALSE
++ )
